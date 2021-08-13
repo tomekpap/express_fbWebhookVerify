@@ -1,4 +1,3 @@
-//just a comment
 module.exports = function fbWebhookVerify(req, res, next) {
   // Parse the query params
   let mode = req.query["hub.mode"];
@@ -21,8 +20,3 @@ module.exports = function fbWebhookVerify(req, res, next) {
   }
   next();
 };
-
-### you need to add sth here like a new word
-
-//Adding a new comment to new branch
-// will try again
