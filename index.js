@@ -22,10 +22,4 @@ module.exports = function fbWebhookVerify(req, res, next) {
   next();
 };
 
-<<<<<<< HEAD
 ### you need to add sth here like a new word
-=======
-### you need to add sth here
-
-and here
->>>>>>> main
