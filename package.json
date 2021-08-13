@@ -1,0 +1,25 @@
+{
+  "name": "express_fb-webhook-verify",
+  "version": "1.0.0",
+  "description": "Express middleware to verify facebook wehbook req",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomekpap/express_fbWebhookVerify.git"
+  },
+  "keywords": [
+    "express",
+    "facebook",
+    "webhook",
+    "verify"
+  ],
+  "author": "tomekpap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomekpap/express_fbWebhookVerify/issues"
+  },
+  "homepage": "https://github.com/tomekpap/express_fbWebhookVerify#readme"
+}
